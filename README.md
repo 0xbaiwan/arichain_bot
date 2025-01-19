@@ -48,7 +48,7 @@
     npm run start
     ```
 
-## 所有账户信息保存在 `accounts.txt` 中
+ 所有账户信息保存在 `accounts.txt` 中
 
 ## 购买代理（可选）
 
